@@ -1,5 +1,8 @@
 # A2SV-Competitive-Programming
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=teyouale.A2SV-Competitive-Programming)
+[![Updated Badge](https://badges.pufler.dev/updated/teyouale/A2SV-Competitive-Programming)](https://badges.pufler.dev)
+
 ## Goal
 
     Easy: Under 10 minutes.
